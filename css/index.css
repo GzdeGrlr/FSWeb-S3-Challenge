@@ -444,6 +444,7 @@ footer p {
     height: auto;
     padding-top: 2.5vh;
     font-size: 2rem;
+    text-align: center;
   }
 
   footer .footer {
@@ -452,5 +453,10 @@ footer p {
   }
   footer nav {
     flex-direction: column;
+  }
+
+  footer input {
+    text-align: center;
+    margin-left: 10%;
   }
 }
